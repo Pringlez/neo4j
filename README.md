@@ -44,4 +44,6 @@ In this exercise we will look at the graph database Neo4j.
 
 - [Neo4j website](http://neo4j.com/)
 
-- [Neo4j oneline getting started course](http://neo4j.com/graphacademy/online-course-getting-started/)
+- [Neo4j online getting started course](http://neo4j.com/graphacademy/online-course-getting-started/)
+
+- [Neo4j manual](http://neo4j.com/docs/stable/) 
