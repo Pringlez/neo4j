@@ -38,7 +38,7 @@ In this exercise we will look at the graph database Neo4j.
     
 ## Advanced exercises
 
-1. 
+1. Create a node.js project, install the neo4j module, and run the create Cypher query above on the database.
 
 ## Notes
 
